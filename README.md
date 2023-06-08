@@ -21,7 +21,7 @@
 
 NOTE : Remove `db/db.sqlite3` file to clear the database
 
-## ASSUMPTIONS
+## Assumptions
 
 - **Installed python in the system**.
 - Handled common edges cases like boundary checks/ empty check mostly for user model in order to complete faster.
